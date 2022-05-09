@@ -1,0 +1,14 @@
+{
+  "CombineMesh.mel": {
+    "descricao": "1"
+  },
+  "Rename.py": {
+    "descricao": "3"
+  },
+  "Mirror.py": {
+    "descricao": "2"
+  },
+  "Duplicate.mel": {
+    "descricao": "4"
+  }
+}
